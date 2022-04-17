@@ -11,5 +11,18 @@ Data Visualization using Tableau
 ### As as as result of the analysis, the following graphs were created:
 ![This is an image](https://github.com/gmgarin/bikesharing/blob/f30bbb124c6ab4f663d13e1917e7d17eeb05a357/Resources/Dashboard%201.png)
 
+### Number of Trips
+
+![This is image](https://github.com/gmgarin/bikesharing/blob/0cc9ff41b2dc6a4cbe2f9ca2899d4a971a939e60/Resources/Number%20of%20Trips.png)
+
+- This is the amount of data that were recorded and analyzed for the month of August 2019.
+
 ### Checkout Times for Users
-![This is an image](/resources/Number of Trips.png)
+![This is image](https://github.com/gmgarin/bikesharing/blob/0cc9ff41b2dc6a4cbe2f9ca2899d4a971a939e60/Resources/Checkout%20Times%20for%20Users.png)
+
+- The graph shows that most trips end in under an hour duration. 
+
+### Checkout Times by Gender
+![This is image](https://github.com/gmgarin/bikesharing/blob/0cc9ff41b2dc6a4cbe2f9ca2899d4a971a939e60/Resources/Checkout%20Times%20by%20Gender.png)
+
+- The graphs shows the breakdown of trip duration by gender. Most bike riders who identified themselves as "male" are higher in number than the other categories. It can also be said that "female" and "unkwown" riders tend to take longer trips than "male" riders."
