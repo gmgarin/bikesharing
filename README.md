@@ -9,6 +9,6 @@ Data Visualization using Tableau
 
 ## Results
 ### As as as result of the analysis, the following graphs were created:
-https://github.com/gmgarin/bikesharing/blob/f30bbb124c6ab4f663d13e1917e7d17eeb05a357/Resources/Dashboard%201.png
+![This is an image](https://github.com/gmgarin/bikesharing/blob/f30bbb124c6ab4f663d13e1917e7d17eeb05a357/Resources/Dashboard%201.png)
 
 ### 
