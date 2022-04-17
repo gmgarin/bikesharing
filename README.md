@@ -13,6 +13,8 @@ Data Visualization using Tableau
 
 ## [Link to dashboard](https://public.tableau.com/app/profile/genesis.garin.villemaire/viz/TableauChallenge_16502185651750/Story)
 
+
+
 ### Number of Trips
 
 ![This is image](https://github.com/gmgarin/bikesharing/blob/0cc9ff41b2dc6a4cbe2f9ca2899d4a971a939e60/Resources/Number%20of%20Trips.png)
@@ -51,3 +53,9 @@ Data Visualization using Tableau
 
 - The heatmaps above show where riders in New York City start and end their trips. Looking at the two maps, it can be said that both are largely similar. Meaning that both maps are shows many starting points are also the ending points of the many Citi Bike users in New York City.
 
+## Summary 
+### In conclusion, bike ride services, like the Citi Bike, are very common and in demand in large cities like New York. With over 2 million trips recorded just for the month August in 2019, it can be a inferred that this is a good alternative and popular mode of transportation, especially to male subscribers.
+
+### However, two additional analysis and visualization for future reference are:
+- comparison of data (such as number of subsribers and trips) among competitors.
+- number of accidents recorded involving Citi bikes.
