@@ -11,6 +11,8 @@ Data Visualization using Tableau
 ### As as as result of the analysis, the following graphs were created:
 ![This is an image](https://github.com/gmgarin/bikesharing/blob/f30bbb124c6ab4f663d13e1917e7d17eeb05a357/Resources/Dashboard%201.png)
 
+## [Link to dashboard](https://public.tableau.com/app/profile/genesis.garin.villemaire/viz/TableauChallenge_16502185651750/Story)
+
 ### Number of Trips
 
 ![This is image](https://github.com/gmgarin/bikesharing/blob/0cc9ff41b2dc6a4cbe2f9ca2899d4a971a939e60/Resources/Number%20of%20Trips.png)
@@ -46,3 +48,6 @@ Data Visualization using Tableau
 ![This is an image](https://github.com/gmgarin/bikesharing/blob/daf1ee18cddda265f1ef17077eff5a239a55de1f/Resources/Top%20Starting%20Location.png)
 
 ![This is an image](https://github.com/gmgarin/bikesharing/blob/f8823c0462cbfec7f7c12687a07270d87b9ff8a8/Resources/Top%20Ending%20Location.png)
+
+- The heatmaps above show where riders in New York City start and end their trips. Looking at the two maps, it can be said that both are largely similar. Meaning that both maps are shows many starting points are also the ending points of the many Citi Bike users in New York City.
+
