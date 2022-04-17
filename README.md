@@ -37,3 +37,12 @@ Data Visualization using Tableau
 
 - The heatmaps above shows the comparison between genders in terms of peak hours during the day. The hours between 6:00am and 9:00am, and 4:00 pm and 7:00 pm during Monday through Friday, seem to be the time when the number of male bike riders are greater than female and unknown users. This seems to be trend as well during the weekend.
 
+### User Trips by Gender by Weekday 
+![This is an image](https://github.com/gmgarin/bikesharing/blob/daf1ee18cddda265f1ef17077eff5a239a55de1f/Resources/User%20Trips%20by%20Gender%20by%20Weekday%20Viz.png)
+
+-  The heatmap above shows that "male" identifies users are greater than the other two categories. Furthermore, there are more "male" subscribers use the Citi Bike from Monday through Friday.
+
+### Top Starting and Top Ending Locations
+![This is an image](https://github.com/gmgarin/bikesharing/blob/daf1ee18cddda265f1ef17077eff5a239a55de1f/Resources/Top%20Starting%20Location.png)
+
+![This is an image](https://github.com/gmgarin/bikesharing/blob/f8823c0462cbfec7f7c12687a07270d87b9ff8a8/Resources/Top%20Ending%20Location.png)
