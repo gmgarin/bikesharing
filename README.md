@@ -7,3 +7,8 @@ Data Visualization using Tableau
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
+## Results
+### As as as result of the analysis, the following graphs were created:
+https://github.com/gmgarin/bikesharing/blob/f30bbb124c6ab4f663d13e1917e7d17eeb05a357/Resources/Dashboard%201.png
+
+### 
