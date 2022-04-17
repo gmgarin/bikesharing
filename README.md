@@ -26,3 +26,14 @@ Data Visualization using Tableau
 ![This is image](https://github.com/gmgarin/bikesharing/blob/0cc9ff41b2dc6a4cbe2f9ca2899d4a971a939e60/Resources/Checkout%20Times%20by%20Gender.png)
 
 - The graphs shows the breakdown of trip duration by gender. Most bike riders who identified themselves as "male" are higher in number than the other categories. It can also be said that "female" and "unkwown" riders tend to take longer trips than "male" riders."
+
+### Trips by Weekday per Hour
+![This is image](https://github.com/gmgarin/bikesharing/blob/00b7749c4835ee92a74aa78bd9803f73b8702eab/Resources/Trips%20by%20Weekday%20per%20Hour.png)
+
+- The heatmap above shows the peak hours when most bikes are being utilized. The hours between 6:00am and 9:00am, and 4:00 pm and 7:00 pm during Monday through Friday, seem to be the time when most users ride Citi Bikes. However, during the Saturday and Sunday, the peak hours are between 9:00 am and 7:00 pm.
+
+### Trips by Gender (Weekday per Hour)
+![This is image](https://github.com/gmgarin/bikesharing/blob/00b7749c4835ee92a74aa78bd9803f73b8702eab/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour)%20.png)
+
+- The heatmaps above shows the comparison between genders in terms of peak hours during the day. The hours between 6:00am and 9:00am, and 4:00 pm and 7:00 pm during Monday through Friday, seem to be the time when the number of male bike riders are greater than female and unknown users. This seems to be trend as well during the weekend.
+
